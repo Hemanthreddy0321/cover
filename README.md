@@ -4,31 +4,29 @@
 ## AIM:
 To design a book front cover page using HTML and CSS.
 
-## DESIGN STEPS:
+## ALGORITHM
 
-### Step 1:
-Create a Django Admin project.
 
-### Step 2:
-Create an app in the Django interface.
+1.Create a Django Admin project.
 
-### Step 3:
-Create a folder named 'static' in the app folder.
 
-### Step 4:
-Create a new HTML file in the static folder.
+2.Create an app in the Django interface.
 
-### Step 5:
-Write the HTML code with relevant CSS properties.
 
-### Step 6:
-Choose the appropriate style and color scheme.
+3.Create a folder named 'static' in the app folder.
 
-### Step 7:
-Insert the images in their appropriate places.
 
-### Step 8:
-Publish the website in the LocalHost.
+4.Create a new HTML file in the static folder. 
+5.Write the HTML code with relevant CSS properties.
+
+
+6.Choose the appropriate style and color scheme.
+
+
+7.Insert the images in their appropriate places.
+
+
+8.Publish the website in the LocalHost.
 
 ## PROGRAM:
 ```
